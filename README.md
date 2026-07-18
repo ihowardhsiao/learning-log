@@ -14,3 +14,9 @@ Used ChatGPT to get onto xCode and create a project
 Created a simple UI with text and messed around with the font and color to figure out some different functions
 ## Goals
 Create a simple iOS app with text and understand the code
+## Day 2 (July 18th, 2026)
+Created an app with a button that would change text if you clicked on it
+Found out how to make multiple buttons
+Found out how to make buttons play, pause, and restart songs
+## Goals
+Learn how buttons work on SwiftUI and understand the code
