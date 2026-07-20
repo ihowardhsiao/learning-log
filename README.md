@@ -29,5 +29,4 @@ Learn how buttons work on SwiftUI and understand the code
 - Learned to use textField s
 - Filtered out any characters that weren't numbers and filtered out numbers that weren't 1-100
 ## Goals
-Continue to learn how buttons work on SwiftUI and create a simple clicker game
-Use the textField
+Continue to learn how buttons work on SwiftUI and create a simple clicker game and use the textField
